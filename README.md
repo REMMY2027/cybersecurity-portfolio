@@ -1,4 +1,4 @@
-# Hi, I'm Kirumira 👋
+# Hi, I'm Remmy 👋
 
 I'm a recent MSc graduate in Network and Information Security, and I'm on a mission to land my first role as a SOC Analyst. This GitHub is where I document everything I'm learning — every TryHackMe room I complete, every Security+ topic I study, and every project I build.
 
