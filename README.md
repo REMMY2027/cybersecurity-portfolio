@@ -1,8 +1,8 @@
 # Hi, I'm Remmy 👋
 
-I'm a recent MSc graduate in Network and Information Security, and I'm on a mission to land my first role as a SOC Analyst. This GitHub is where I document everything I'm learning — every TryHackMe room I complete, every Security+ topic I study, and every project I build.
+I'm a recent MSc graduate in Network and Information Security, and I'm on a mission to land my first role as a SOC Analyst. This GitHub is where I document everything I'm learning; every TryHackMe room I complete, every Security+ topic I study, and every project I build.
 
-I believe the best way to learn cybersecurity is to do it, not just read about it. So everything you'll find here comes from actual hands-on work — real terminals, real tools, real investigations.
+I believe the best way to learn cybersecurity is to do it, not just read about it. So everything you'll find here comes from actual hands-on work; real terminals, real tools, real investigations.
 
 ---
 
