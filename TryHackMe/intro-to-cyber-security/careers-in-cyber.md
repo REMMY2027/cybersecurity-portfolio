@@ -18,7 +18,7 @@ Before I start throwing myself into technical labs, I wanted to understand the l
 
 Four career paths, explained one by one:
 
-### Task 1 — Introduction
+### Task 1 : Introduction
 
 The room opens with something I needed to hear: **you don't need a specific background to start in cybersecurity.** If you enjoy problem solving, curiosity, and figuring out how things work there's a role for you.
 
@@ -32,7 +32,7 @@ Three reasons the field is worth getting into:
 
 ---
 
-### Task 2 — Security Analysis (the role I want)
+### Task 2 : Security Analysis (the role I want)
 
 This is the one that spoke to me. Security Analysts are described as the **"digital defenders"** of an organisation. They sit on the blue team and their job is to monitor, investigate, and respond.
 
@@ -49,7 +49,7 @@ The progression from Security Analyst goes toward Threat Hunting, Incident Respo
 
 ---
 
-### Task 3 — Security Engineering
+### Task 3 : Security Engineering
 
 Security Engineers are the architects, they build and maintain the systems that protect an organisation. Think of them as the people who design the security infrastructure that analysts like me will eventually work within.
 
@@ -60,7 +60,7 @@ One thing I didn't know before this task: Security Engineers are responsible for
 
 ---
 
-### Task 4 — Penetration Testing
+### Task 4 : Penetration Testing
 
 Pentesters are the ethical hackers. They're hired to legally try to break into a company's systems. Everything done under a formal written agreement called an **engagement**.
 
@@ -75,7 +75,7 @@ What I found interesting: penetration testing is a career path that eventually l
 
 A few things that stuck with me:
 
-1. **SOC Analyst is a broad entry point** — you start by monitoring and triaging, then specialise into whatever interests you most. Threat hunting, incident response, malware analysis — all realistic progressions.
+1. **SOC Analyst is a broad entry point** you start by monitoring and triaging, then specialise into whatever interests you most. Threat hunting, incident response, malware analysis — all realistic progressions.
 
 2. **The roles are interconnected** — the Security Engineer builds the IDS that generates the alerts I'll investigate. The Pentester uses the same techniques that attackers use and that I'll be detecting. Everyone's work feeds into everyone else's.
 
