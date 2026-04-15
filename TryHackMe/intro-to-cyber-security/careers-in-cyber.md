@@ -75,16 +75,16 @@ What I found interesting: penetration testing is a career path that eventually l
 
 A few things that stuck with me:
 
-1. **SOC Analyst is a broad entry point** you start by monitoring and triaging, then specialise into whatever interests you most. Threat hunting, incident response, malware analysis — all realistic progressions.
+1. **SOC Analyst is a broad entry point** you start by monitoring and triaging, then specialise into whatever interests you most. Threat hunting, incident response, malware analysis, all realistic progressions.
 
-2. **The roles are interconnected** — the Security Engineer builds the IDS that generates the alerts I'll investigate. The Pentester uses the same techniques that attackers use and that I'll be detecting. Everyone's work feeds into everyone else's.
+2. **The roles are interconnected** ,the Security Engineer builds the IDS that generates the alerts I'll investigate. The Pentester uses the same techniques that attackers use and that I'll be detecting. Everyone's work feeds into everyone else's.
 
-3. **3.5 million unfilled roles is not a small number** — the demand is genuinely there for people willing to put in the work to build real skills.
+3. **3.5 million unfilled roles is not a small number** ,the demand is genuinely there for people willing to put in the work to build real skills.
 
 ---
 
 ## How this connects to SOC work
 
-Everything in this room pointed me toward the same conclusion: the SOC Analyst role is the right starting point for me. It's where you build the broadest foundation — networking, threat detection, SIEM, log analysis, incident response, before specialising. And the demand for people who can do it well is massive.
+Everything in this room pointed me toward the same conclusion: the SOC Analyst role is the right starting point for me. It's where you build the broadest foundation, networking, threat detection, SIEM, log analysis, incident response, before specialising. And the demand for people who can do it well is massive.
 
 I'm building toward this role deliberately. TryHackMe → Security+ → SOC Level 1 path → first job. This room helped me confirm that plan makes sense.
